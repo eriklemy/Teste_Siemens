@@ -31,9 +31,8 @@ Por fim o programa deve retornar "SIM" ou "NAO" sobre a possibilidade de  conver
     t: "blablabcde" 
     O resultado esperado será "SIM"
 
-__OBS:__ Caso desejar ver os test cases fornecidos sem precisar ficar digitando o input.
-Remover comentario __// testCases()__ $\implies$ linha (14) <br>
-
+__OBS:__ Caso desejar ver os test cases fornecidos sem precisar ficar digitando o input. <br>
+Remover comentario __// testCases()__ $\implies$ linha (14)
 
 ---
 ### Questão 3 (Q10 - no teste)
