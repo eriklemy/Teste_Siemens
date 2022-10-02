@@ -4,12 +4,12 @@ Resolução das questões do teste para oportunidade de estagio na Siemens
 Este repositorio tem finalidade de apresentar as soluções das questões pedidas para serem entregues por repositorio git fornecidas no teste de Conhecimento de Programação e Suporte para estagio na Siemens foram 10 questões que envolvem programação e teoria as soluções foram resolvidas em C++.
 
 ---
-### Questão 1:
+### Questão 1 (Q3 - no teste):
 Pede-se para escrever um programa que imprime cada número de 1 até 100 em uma nova linha onde cada multiplo de 3 deve apresentar "Foo" no lugar do numero e multiplos de 5 apresentar "Baa", alternativamente multiplos de 3 e 5 devem apresentar "FooBaa", por fim pedia que fosse feito no menor número de linhas possiveis e com código eficiente.
 - [SOLUÇÃO: Questão 1](./Questao_01/questao1.cpp)
 
 ---
-### Questão 2:
+### Questão 2 (Q4 - no teste):
 Foi pedido para criar um programa que implementa a função ConcatERemove(s,t,k). Ela deve retornar os resultados 'sim' ou 'não'.
 A função tem os seguintes parâmetros:
 - s: string inicial
@@ -30,7 +30,7 @@ Por fim o programa deve retornar "SIM" ou "NAO" sobre a possibilidade de  conver
     s = "blablablabla"
     t = "blablabcde" o resultado esperado sera "SIM"
 
-### Questão 3 (Questão 10 no teste)
+### Questão 3 (Q10 - no teste)
 Dada uma serie de comandos pede-se que implemente a serie de comandos necessarios para os seguintes problemas:
 
 ##### Problema #1
