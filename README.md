@@ -1,7 +1,7 @@
 # Teste Siemens
-Resolução das questões do teste de Conhecimento de Programação e Suporte para oportunidade de estagio na Siemens
+Resolução das questões do teste para oportunidade de estagio na Siemens
 
-Este repositorio tem finalidade de apresentar os resultados das questões fornecidas no teste de Conhecimento de Programação e Suporte para estagio na Siemens foram 10 questões que envolvem programação e teoria as soluções foram resolvidas em C++.
+Este repositorio tem finalidade de apresentar as soluções das questões pedidas para serem entregues por repositorio git fornecidas no teste de Conhecimento de Programação e Suporte para estagio na Siemens foram 10 questões que envolvem programação e teoria as soluções foram resolvidas em C++.
 
 ---
 ### Questão 1:
