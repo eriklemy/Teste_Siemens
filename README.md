@@ -12,22 +12,27 @@ Pede-se para escrever um programa que imprime cada número de 1 até 100 em uma 
 ### Questão 2 (Q4 - no teste):
 Foi pedido para criar um programa que implementa a função ConcatERemove(s,t,k). Ela deve retornar os resultados 'sim' ou 'não'.
 A função tem os seguintes parâmetros:
-- s: string inicial
-- t: string desejada
-- k: um número inteiro que representa o número de operações
+- s: string inicial;
+- t: string desejada;
+- k: um número inteiro que representa o número de operações;
 
 O programa deve possuir as seguintes limitações:
-- 1 <= |s| <= 100
-- 1 <= |t| <= 100
-- 1 <= k <= 100
-- s e t consiste de letras minúsculas do alfabeto português, ascii[a-z]
+- 1 <= |s| <= 100;
+- 1 <= |t| <= 100;
+- 1 <= k <= 100;
+- s e t consiste de letras minúsculas do alfabeto português, ascii[a-z];
 
 Por fim o programa deve retornar "SIM" ou "NAO" sobre a possibilidade de  converter uma string s em t com k número de movimentos.
 - [SOLUÇÃO: Questão 2](./Questao_02/questao2.cpp)
 
 ##### Para teste digitar:
-    s = "blablablabla"
-    t = "blablabcde" o resultado esperado sera "SIM"
+    fornecido na questão:
+    s: "blablablabla"
+    t: "blablabcde" 
+    O resultado esperado será "SIM"
+
+__OBS:__ remover comentario __// testCases()__ $\implies$ linha (14)
+Caso desejar ver os test cases fornecidos sem precisar ficar digitando o input.
 
 ---
 ### Questão 3 (Q10 - no teste)
