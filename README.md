@@ -14,12 +14,11 @@ A função tem os seguintes parâmetros:
 - t: string desejada
 - k: um número inteiro que representa o número de operações
 
-O programa possui as seguintes limitações:
-    
-    a. 1 <= |s| <= 100
-    b. 1 <= |t| <= 100
-    c. 1 <= k <= 100
-    d. s e t consiste de letras minúsculas do alfabeto português, ascii[a-z]
+O programa deve possuir as seguintes limitações:
+- 1 <= |s| <= 100
+- 1 <= |t| <= 100
+- 1 <= k <= 100
+- s e t consiste de letras minúsculas do alfabeto português, ascii[a-z]
 
 Por fim o programa deve retornar "SIM" ou "NAO" sobre a possibilidade de  converter uma string s em t com k número de movimentos.
 
