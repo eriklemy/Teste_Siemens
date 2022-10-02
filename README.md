@@ -25,11 +25,11 @@ O programa deve possuir as seguintes limitações:
 Por fim o programa deve retornar "SIM" ou "NAO" sobre a possibilidade de  converter uma string s em t com k número de movimentos.
 - [SOLUÇÃO: Questão 2](./Questao_02/questao2.cpp)
 
----
 ##### Para teste digitar:
     s = "blablablabla"
     t = "blablabcde" o resultado esperado sera "SIM"
 
+---
 ### Questão 3 (Q10 - no teste)
 Dada uma serie de comandos pede-se que implemente a serie de comandos necessarios para os seguintes problemas:
 
