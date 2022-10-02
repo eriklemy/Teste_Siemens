@@ -6,7 +6,7 @@ Este repositorio tem finalidade de apresentar os resultados das questões fornec
 ---
 ### Questão 1:
 Pede-se para escrever um programa que imprime cada número de 1 até 100 em uma nova linha onde cada multiplo de 3 deve apresentar "Foo" no lugar do numero e multiplos de 5 apresentar "Baa", alternativamente multiplos de 3 e 5 devem apresentar "FooBaa", por fim pedia que fosse feito no menor número de linhas possiveis e com código eficiente.
-- [SOLUÇÃO: Questão 2](./Questao_01/questao1.cpp)
+- [SOLUÇÃO: Questão 1](./Questao_01/questao1.cpp)
 
 ---
 ### Questão 2:
@@ -30,7 +30,7 @@ Por fim o programa deve retornar "SIM" ou "NAO" sobre a possibilidade de  conver
     s = "blablablabla"
     t = "blablabcde" o resultado esperado sera "SIM"
 
-### Questão 3
+### Questão 3 (Questão 10 no teste)
 Dada uma serie de comandos pede-se que implemente a serie de comandos necessarios para os seguintes problemas:
 
 ##### Problema #1
