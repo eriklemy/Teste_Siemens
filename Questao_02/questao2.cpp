@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
     // d) s e t deve ser letra miniscula 
     assert(s.length() <= 100 && t.length() <= 100);
     if (!isLowerCase(s) || !isLowerCase(t)) {
-        std::cerr << "AS STRINGS DEVEM SER EM LETRA MINUSCULA!!\n";
+        std::cerr << "AS STRINGS DEVEM SER EM LETRA MINUSCULA E SEM NUMEROS!!\n";
         return 1;
     }
 
@@ -55,7 +55,7 @@ std::string ConcatERemove(std::string s, std::string t, int k) {
 }
 
 bool isLowerCase(std::string &str) {
-    std::string criteria("abcdefghijklmnopqrstuvwxyz0123456789");
+    std::string criteria("abcdefghijklmnopqrstuvwxyz");
     return (std::string::npos == str.find_first_not_of(criteria));
 }  
 
