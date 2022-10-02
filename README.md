@@ -36,7 +36,7 @@ Remover comentario __// testCases()__ $\implies$ linha (14)
 
 ---
 ### Questão 3 (Q10 - no teste)
-Dada uma serie de comandos pede-se que implemente a serie de comandos necessarios para os seguintes problemas:
+Dada uma serie de comandos pede-se que implemente os comandos necessarios para os seguintes problemas:
 
 ##### Problema #1
 Tenho uma  relation ABC.
